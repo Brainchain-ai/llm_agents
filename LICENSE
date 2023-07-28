@@ -1,21 +1,21 @@
-MIT License
+# Brainchain.ai Proprietary Software License
 
-Copyright (c) 2023 Marc Päpper
+THIS SOFTWARE IS PROVIDED BY BRAINCHAIN.AI AND ITS AUTHORS AND MAINTAINERS: ARTHUR COLLÉ, ANSHUMAN MISHRA, ZAC LIU, DAVE YORK, HEREIN REFERRED TO AS "THE PROVIDERS".
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+By using, copying, or modifying the software (the "Software") provided by the Providers, you are agreeing to be bound by the terms and conditions of this License Agreement.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Proprietary Rights: The Software and all rights, without limitation including proprietary rights therein, are owned by the Providers and/or its suppliers and are protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+License: The Providers hereby grant you a non-exclusive, non-transferable license to use the Software, subject to all the terms and conditions hereof.
+
+Restrictions: You may not modify, adapt, reverse engineer, decompile, disassemble, or create derivative works of the Software. You may not rent, lease, sell, sublicense, assign, or transfer your rights in the Software, or authorize any portion of the Software to be copied onto another individual or legal entity's device.
+
+No Warranty: The Software is provided "as is" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The Providers do not warrant that the functions contained in the Software will meet your requirements or that the operation of the Software will be uninterrupted or error-free.
+
+Limitation of Liability: In no event will the Providers be liable for any damages, including but not limited to any lost profits, lost savings or other incidental or consequential damages arising out of your use or inability to use the Software, even if the Providers have been advised of the possibility of such damages.
+
+Termination: This license will terminate automatically if you fail to comply with any of the limitations described herein. On termination, you must destroy all copies of the Software.
+
+This License Agreement is governed by and construed in accordance with the laws of the jurisdiction in which the Providers' headquarters are located.
+
+If you have any questions concerning this license, you may contact Brainchain.ai.
